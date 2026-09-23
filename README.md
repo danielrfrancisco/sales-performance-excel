@@ -49,6 +49,10 @@ Los archivos incluidos en el repositorio son:
 * `documentation/`: documentación detallada del proyecto.
 * `images/`: recursos gráficos utilizados en el README.
 
+## Documentación
+
+La [documentación completa](documentation/project_documentation.pdf) del proyecto incluye una descripción detallada sobre el proceso de análisis, las decisiones tomadas y los resultados.
+
 ## Fuente de datos
 
 [Amazon Sales Dataset](https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset), de Ali Hussain.
