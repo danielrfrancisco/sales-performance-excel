@@ -52,7 +52,3 @@ Los archivos incluidos en el repositorio son:
 ## Fuente de datos
 
 [Amazon Sales Dataset](https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset), de Ali Hussain.
-
-## Documentación
-
-Para una descripción detallada del proceso de análisis, las decisiones tomadas y los resultados, consulta la [documentación completa](documentation/project_documentation.pdf).
