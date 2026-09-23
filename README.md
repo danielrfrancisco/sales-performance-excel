@@ -19,6 +19,7 @@ El dataset empleado contiene información de ventas de comercio electrónico dur
 3. **Análisis exploratorio (EDA):** utilización de tablas dinámicas para explorar las ventas por categoría, periodo, región y método de pago.
 
 4. **Dashboard:** el dashboard permite explorar el rendimiento de ventas mediante KPIs, visualizaciones dinámicas, segmentadores y líneas de tiempo.
+
 ## Dashboard
 
 El dashboard permite explorar el rendimiento de ventas mediante KPIs, visualizaciones dinámicas, segmentadores y líneas de tiempo.
